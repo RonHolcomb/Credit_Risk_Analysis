@@ -26,3 +26,8 @@ Here we see a very high accuracy score of almost 80%. The precision low risk rem
 
 * Easy Ensemble AdaBoost Classifier
 ![](https://github.com/RonHolcomb/Credit_Risk_Analysis/blob/main/Screenshot%20(40).png)
+This model provided the highest accuracy score of 92%. The precision low risk remains at 100% while the precision high is the highest its been at 7%. The recall is back to being even with 91% high and a 94% low.
+
+# Summary
+
+Based on the data provided we can see that the accuracy scores for the Over and Under samples is not very high compared to the ensemble modles. The ensemble provided both higher accuracy and precision/recall. This can be seen especially with the AdaBoost Classifier. Having the highest accuracy and mix of precision and recall I would recommend this model to predict credit risk.
